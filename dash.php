@@ -26,7 +26,7 @@
 		  case 1: include "base/sidebarcand.php"; break;
 		  case 2: include "base/sidebarvalid.php"; break;
 		  case 3: include "base/sidebaradm.php"; break;
-      git add .
+      
 
 	  }	
     ?>
